@@ -34,11 +34,3 @@ I am a **DevOps & Cloud Engineer** with ~4 years of experience bridging the gap 
 <br/>
 
 <br/>
-
-### 🛠️ My Projects
-
-<div align="left">
-  <a href="https://github.com/Kush999">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kush999&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Kush999's Activity Graph" />
-  </a>
-</div>
